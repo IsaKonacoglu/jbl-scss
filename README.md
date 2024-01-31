@@ -2,4 +2,4 @@
 
 Html, Css ile kodlanmıştır.
 
-![](images/model-img.png) 
+![](images/favorite-3.png) 
